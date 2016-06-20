@@ -1,4 +1,4 @@
-//Mauricio Calcaño 2016-06-19
+//Mauricio Calcaño 2016-06-19 / Pharoxs
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 
